@@ -1,0 +1,9 @@
+[
+    {
+        "model": "autogen_studio_deployment",
+        "api_key": "d4d884a7bde84703854e8b8e583350f5",
+        "azure_endpoint":"https://demofinetune.openai.azure.com/",
+        "api_version": "2024-02-01",
+        "api_type": "azure"
+    }
+]

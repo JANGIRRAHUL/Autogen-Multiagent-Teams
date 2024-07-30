@@ -1,0 +1,593 @@
+[
+    {
+        "linkedin_url": "https://www.linkedin.com/in/mulengaagley",
+        "response": {
+            "code": 400,
+            "description": "Invalid request, please provide valid query params [keyword_regex]",
+            "name": "Bad Request"
+        }
+    },
+    {
+        "linkedin_url": "https://www.linkedin.com/in/chriswess",
+        "response": {
+            "code": 400,
+            "description": "Invalid request, please provide valid query params [keyword_regex]",
+            "name": "Bad Request"
+        }
+    },
+    {
+        "linkedin_url": "https://www.linkedin.com/in/meenu-jangir-0ab116306/",
+        "response": {
+            "message": "URL not found",
+            "success": false,
+            "status": 404
+        }
+    },
+    {
+        "linkedin_url": "http://JMR Technologies.in",
+        "response": {
+            "message": "URL not found",
+            "success": false,
+            "status": 404
+        }
+    },
+    {
+        "linkedin_url": "https://www.linkedin.com/company/wintellisysinc/mycompany/",
+        "response": {
+            "message": "URL not found",
+            "success": false,
+            "status": 404
+        }
+    },
+    {
+        "linkedin_url": "https://www.linkedin.com/company/wintellisysinc/",
+        "response": {
+            "message": "URL not found",
+            "success": false,
+            "status": 404
+        }
+    },
+    {
+        "linkedin_url": "https://www.linkedin.com/in/chriswess/",
+        "response": [
+            {
+                "fullName": "Chris Wess",
+                "linkedin_internal_id": "960016",
+                "first_name": "Chris",
+                "last_name": "Wess",
+                "public_identifier": "chriswess",
+                "background_cover_image_url": "https://media.licdn.com/dms/image/C4D16AQFvolSx6SL1KA/profile-displaybackgroundimage-shrink_200_800/0/1607525969742?e=2147483647&v=beta&t=Q3yQE9R2Jiac-Z2E7_OOqkoNm6gbfhIF93pJEjS5V-k",
+                "profile_photo": "https://media.licdn.com/dms/image/C4D03AQFdh1BKDAC1Ew/profile-displayphoto-shrink_200_200/0/1607525842202?e=2147483647&v=beta&t=FEKHJksE4qfuZ29srNWOmOpV30D28JRB_ZCHRVt-jP8",
+                "headline": "",
+                "location": "Arlington, Tennessee, United States\n          \n            Contact Info",
+                "followers": "4K followers",
+                "connections": "500+ connections",
+                "card_title": "Contact Chris for services",
+                "card_subtitle": "Cybersecurity, Network Support, Computer Networking, Backup & Recovery Systems, Telecommunications, Data Recovery, IT Consulting, Customer Service, Program Management, and Strategic Planning",
+                "about": "Chris Wess is the CEO and Managing Principal of Wintellisys, Inc. As CEO, Chris creates\u2026",
+                "experience": [],
+                "education": [],
+                "articles": [],
+                "description": {
+                    "description1": "Wintellisys, Inc.",
+                    "description1_link": "https://www.linkedin.com/company/wintellisysinc?trk=public_profile_topcard-current-company",
+                    "description2": "Microsoft Certified Systems  Engineer + Messaging",
+                    "description3": "Websites",
+                    "description3_link": "https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fwww%2Ewintellisys%2Ecom&urlhash=59gl&trk=public_profile_website"
+                },
+                "activities": [
+                    {
+                        "link": "https://www.linkedin.com/posts/wintellisysinc_ai-finance-stockmarket-activity-7215006529610006528-B-b4?trk=public_profile",
+                        "image": "https://media.licdn.com/dms/image/D5622AQGc2uqjN0CUqQ/feedshare-shrink_800/0/1720184604422?e=2147483647&v=beta&t=-ek507DVRkXMo1e2iVJpLm4QSS2W02ZToLAjmFseMFc",
+                        "title": "\ud83d\ude80 AI: The Future of Finance \ud83d\ude80\n\nAt Wintellisys, we lead the way with cutting-edge innovations in AI. Our Wealth Wingman tool offers unparalleled\u2026",
+                        "activity": "Liked by Chris Wess"
+                    },
+                    {
+                        "link": "https://www.linkedin.com/posts/wintellisysinc_wealthwingman-ai-artificialintelligence-activity-7216093721807716352-1Q6R?trk=public_profile",
+                        "image": "https://media.licdn.com/dms/image/D5622AQHthRWDxPFudQ/feedshare-shrink_800/0/1720443587219?e=2147483647&v=beta&t=22P5i9ZzKl22Rc6uXGpj-8ISc5TXFbVE8wrIbnT1j9Q",
+                        "title": "\ud83d\ude80 Introducing Wealth Wingman! \ud83d\ude80\n\nWe're pioneering the future of AI with groundbreaking solutions in stock prediction, personalized financial\u2026",
+                        "activity": "Liked by Chris Wess"
+                    },
+                    {
+                        "link": "https://www.linkedin.com/posts/wintellisysinc_wealthwingman-stocktrading-aipowered-activity-7212484841001431041-ahIb?trk=public_profile",
+                        "image": "https://media.licdn.com/dms/image/D5605AQEojuGQTE1dow/videocover-high/0/1719590372105?e=2147483647&v=beta&t=wGC5C_K_NisyASOaJLTLs6iJ-N8mrl67Dd49eJqah2g",
+                        "title": "Introducing Wealth Wingman: Your AI-Powered Stock Trading Companion!\n\nAre you ready to take your stock trading game to the next level? Say hello to\u2026",
+                        "activity": "Liked by Chris Wess"
+                    },
+                    {
+                        "link": "https://www.linkedin.com/posts/wintellisysinc_investing-stockmarket-ai-activity-7211752620565123072-Uldk?trk=public_profile",
+                        "image": "https://media.licdn.com/dms/image/D5622AQEa7Ek746ES0Q/feedshare-shrink_800/0/1719411665152?e=2147483647&v=beta&t=EbhP5ymEERE5ekzAJF0GnH2BNU_77e08Adjle7NjOGE",
+                        "title": "\ud83c\udf1f Revolutionize Your Investments with AI Stock Analysis and Prediction \ud83c\udf1f\n\nStaying ahead of the curve is more crucial than ever. That's where\u2026",
+                        "activity": "Liked by Chris Wess"
+                    },
+                    {
+                        "link": "https://www.linkedin.com/posts/garethyoung8_microsoft-purviewdlp-defenderforendpoint-activity-7212406343188496385-xDex?trk=public_profile",
+                        "image": "https://media.licdn.com/dms/image/D4E22AQG2L2n6bl8I_Q/feedshare-shrink_800/0/1719571670440?e=2147483647&v=beta&t=DoQ1imSaQlOoD9-DxOZKQOi2pp50hIlc_pCljxHVw54",
+                        "title": "\ud83d\ude80 **Purview DLP Alert! ** \ud83d\ude80\n\nStarting this June, Microsoft is making a significant backend change that will enhance the stability and performance\u2026",
+                        "activity": "Liked by Chris Wess"
+                    },
+                    {
+                        "link": "https://www.linkedin.com/posts/judsonalthoff_nasdaq-collaborates-with-microsoft-to-reimagine-activity-7201948407236550658-MSx3?trk=public_profile",
+                        "image": "https://media.licdn.com/dms/image/sync/D4E27AQFiBD2kI0t9fw/articleshare-shrink_1280_800/0/1717860694441?e=2147483647&v=beta&t=O1ZOSlcmr0xJFL66bKM6_9ItWirm3WB3ALWaVRBNuY0",
+                        "title": "Nasdaq is transforming the boardroom experience with the integration of generative AI into its Nasdaq Boardvantage\u00ae Board Portal (NBV). \n\u00a0\nBy\u2026",
+                        "activity": "Liked by Chris Wess"
+                    },
+                    {
+                        "link": "https://www.linkedin.com/posts/shanita-polk-73a1a4103_this-girl-from-the-west-side-of-chicago-has-activity-7184246977948217344-1mw6?trk=public_profile",
+                        "image": "https://media.licdn.com/dms/image/D4E22AQFEtIRIU1a6mg/feedshare-shrink_800/0/1712857954443?e=2147483647&v=beta&t=BTfpdWSLwS-Bh2fTMtmWuhnfCW5sV3Mra8HMh5a4Uk4",
+                        "title": "This girl from the west side of Chicago has reached the pinnacle of her career, I am a captain at American Airlines! I\u2019m the 7th African American\u2026",
+                        "activity": "Liked by Chris Wess"
+                    },
+                    {
+                        "link": "https://www.linkedin.com/posts/wintellisysinc_wintellisys-cloudcomputing-managedservices-activity-7200873383834628098-Ir2F?trk=public_profile",
+                        "image": "https://media.licdn.com/dms/image/D5622AQGZOF7EwVrxPw/feedshare-shrink_800/0/1716815780498?e=2147483647&v=beta&t=MwVif3caFz7q_f39GM3Ip-cKJmVWtwhTlRuRaDEiI6c",
+                        "title": "\ud83d\ude80 Elevate Your IT with Wintellisys \ud83d\ude80\n\nLooking to take your IT infrastructure to new heights? Look no further! \ud83d\udcbb Our latest infographic breaks down\u2026",
+                        "activity": "Liked by Chris Wess"
+                    },
+                    {
+                        "link": "https://www.linkedin.com/posts/chriswess_new-method-of-wavefunction-matching-helps-activity-7200349714356027392-942J?trk=public_profile",
+                        "image": "https://media.licdn.com/dms/image/sync/D4E27AQFqXLVScDQjkw/articleshare-shrink_1280_800/0/1716697124705?e=2147483647&v=beta&t=mJ3pPFus3DKGDIfJvdoXXvq7pqq0i9UPS8IquL2fXFk",
+                        "title": "Abhirami V.S",
+                        "activity": "Shared by Chris Wess"
+                    },
+                    {
+                        "link": "https://www.linkedin.com/posts/laurentiu-nita-24b70796_quarks-interactive-activity-7199711871103352833-sMB6?trk=public_profile",
+                        "image": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+                        "title": "Exciting times for the field of quantum computing and my company Quarks Interactive! \n\nPerhaps with UNESCO designating 2025 as the year of quantum\u2026",
+                        "activity": "Liked by Chris Wess"
+                    },
+                    {
+                        "link": "https://www.linkedin.com/posts/wintellisysinc_cloudcomputing-businesstransformation-activity-7198336671732408320-tock?trk=public_profile",
+                        "image": "https://media.licdn.com/dms/image/D5622AQFPT6vNvajLxA/feedshare-shrink_1280/0/1716212501050?e=2147483647&v=beta&t=me5aRiDkNkPBz2k5gq3rCjj7KDAed7_EvTQrqUc5ooU",
+                        "title": "\ud83c\udf1f Unlock the power of the cloud! \ud83d\ude80 Discover why businesses are making the shift. \ud83d\udcbc\ud83d\udcad\n\nBenefits:\n\ud83d\udcb0 Cut costs\n\ud83d\udcc8 Scale seamlessly\n\ud83c\udf10 Work from\u2026",
+                        "activity": "Liked by Chris Wess"
+                    }
+                ],
+                "volunteering": [],
+                "certification": [
+                    {
+                        "company_image": "https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f",
+                        "certification": "Mcsa Office 365",
+                        "company_name": "-",
+                        "issue_date": "",
+                        "credential_id": ""
+                    }
+                ],
+                "people_also_viewed": [
+                    {
+                        "link": "https://www.linkedin.com/in/craig-sides-a0a6926?trk=public_profile_browsemap-profile",
+                        "name": "Craig Sides",
+                        "summary": "",
+                        "location": "Woodinville, WA"
+                    },
+                    {
+                        "link": "https://www.linkedin.com/in/tezinder-97b55a201?trk=public_profile_browsemap-profile",
+                        "name": "Tezinder .",
+                        "summary": "Senior Cloud Consultant at Wintellisys, Inc.",
+                        "location": "Memphis, TN"
+                    },
+                    {
+                        "link": "https://www.linkedin.com/in/nirmalsharma1?trk=public_profile_browsemap-profile",
+                        "name": "Nirmal K Ratawa [ Ex-MVP-Directory Service ]",
+                        "summary": "",
+                        "location": "Memphis Metropolitan Area"
+                    },
+                    {
+                        "link": "https://www.linkedin.com/in/vincentfo?trk=public_profile_browsemap-profile",
+                        "name": "Vincent Fournier",
+                        "summary": "",
+                        "location": "Atlanta Metropolitan Area"
+                    },
+                    {
+                        "link": "https://www.linkedin.com/in/tim-jackelen-858a84209?trk=public_profile_browsemap-profile",
+                        "name": "Tim Jackelen",
+                        "summary": "Senior Project Manager at Wintellisys, Inc.",
+                        "location": "Lakeville, MN"
+                    },
+                    {
+                        "link": "https://www.linkedin.com/in/gabriel-white-049ab4296?trk=public_profile_browsemap-profile",
+                        "name": "Gabriel White",
+                        "summary": "CEO @ Felagi Fellowship Vision | Homesteading, Farming, Art Studio Spaces",
+                        "location": "Bennington, VT"
+                    },
+                    {
+                        "link": "https://www.linkedin.com/in/sudhir-gandra-63a66522?trk=public_profile_browsemap-profile",
+                        "name": "Sudhir Gandra",
+                        "summary": "Oracle Projects Senior Business analyst at Alorica Inc",
+                        "location": "Cypress, TX"
+                    },
+                    {
+                        "link": "https://ph.linkedin.com/in/irishdignacio-a4aba7185?trk=public_profile_browsemap-profile",
+                        "name": "Irish Dioseime Ignacio",
+                        "summary": "Efficient Executive Assistant | Supporting Software Development Success with Organizational Expertise | Customer-Centric Accounts Support Specialist | Driving Financial Excellence & Client Satisfaction",
+                        "location": "Bacolod"
+                    },
+                    {
+                        "link": "https://www.linkedin.com/in/kmascari?trk=public_profile_browsemap-profile",
+                        "name": "Kate Mascari",
+                        "summary": "Student at University of Mississippi",
+                        "location": "Santa Barbara County, CA"
+                    },
+                    {
+                        "link": "https://www.linkedin.com/in/jeff-nesses-8754b791?trk=public_profile_browsemap-profile",
+                        "name": "Jeff Nesses",
+                        "summary": "Owner at Lens Lab Express",
+                        "location": "United States"
+                    },
+                    {
+                        "link": "https://uk.linkedin.com/in/giri-arumugam-56a256145?trk=public_profile_browsemap-profile",
+                        "name": "Giri Arumugam",
+                        "summary": "IT Manager at HP",
+                        "location": "Slough"
+                    },
+                    {
+                        "link": "https://www.linkedin.com/in/melissa-jarrett-029153296?trk=public_profile_browsemap-profile",
+                        "name": "Melissa Jarrett",
+                        "summary": "Supply Chain Manager II - Amazon Shipping",
+                        "location": "Blandon, PA"
+                    },
+                    {
+                        "link": "https://www.linkedin.com/in/tony-poirel-b492122b2?trk=public_profile_browsemap-profile",
+                        "name": "Tony Poirel",
+                        "summary": "Implementation Project Coordinator at Inside Real Estate",
+                        "location": "Myrtle Beach, SC"
+                    },
+                    {
+                        "link": "https://dk.linkedin.com/in/carsten-rousing-580295b?trk=public_profile_browsemap-profile",
+                        "name": "Carsten Rousing",
+                        "summary": "CE at NCR",
+                        "location": "Central Denmark Region, Denmark"
+                    },
+                    {
+                        "link": "https://ph.linkedin.com/in/adicolmenares?trk=public_profile_browsemap-profile",
+                        "name": "Adrian Paulo Ca\u00f1ete",
+                        "summary": "Believe that you can do anything. Reach the goals you want to reach. Work hard for every opportunity that knocked on your door.",
+                        "location": "Bacolod"
+                    },
+                    {
+                        "link": "https://www.linkedin.com/in/mattbauer24?trk=public_profile_browsemap-profile",
+                        "name": "Matthew Bauer",
+                        "summary": "In-tank Sealer",
+                        "location": "Summerville, SC"
+                    },
+                    {
+                        "link": "https://in.linkedin.com/in/manav-duggal-20b22a12?trk=public_profile_browsemap-profile",
+                        "name": "Manav Duggal",
+                        "summary": "Head - International Sales & Marketing at Goyum Screw Press, Ludhiana, India",
+                        "location": "Ludhiana"
+                    },
+                    {
+                        "link": "https://dk.linkedin.com/in/carsten-rousing-126071275?trk=public_profile_browsemap-profile",
+                        "name": "Carsten Rousing",
+                        "summary": "--",
+                        "location": "Copenhagen"
+                    },
+                    {
+                        "link": "https://www.linkedin.com/in/holly-rhone-2a588693?trk=public_profile_browsemap-profile",
+                        "name": "Holly Rhone",
+                        "summary": "Accounting Clerk at VENUS Swim & Fashion",
+                        "location": "Jacksonville, FL"
+                    },
+                    {
+                        "link": "https://www.linkedin.com/in/emily-scott-8a4932268?trk=public_profile_browsemap-profile",
+                        "name": "Emily Scott",
+                        "summary": "Human Resources Assistant at Newberry Tanks And Equipment, LLC",
+                        "location": "West Memphis, AR"
+                    }
+                ],
+                "similar_profiles": [
+                    {
+                        "link": "https://www.linkedin.com/in/chris-wess-00346278?trk=public_profile_samename-profile",
+                        "name": "Chris Wess",
+                        "summary": "--",
+                        "location": "United States"
+                    },
+                    {
+                        "link": "https://www.linkedin.com/in/chris-wess-b0b39a27a?trk=public_profile_samename-profile",
+                        "name": "Chris Wess",
+                        "summary": "--",
+                        "location": "Phoenix, AZ"
+                    },
+                    {
+                        "link": "https://www.linkedin.com/in/christopher-wess-cfa-882261?trk=public_profile_samename-profile",
+                        "name": "Christopher Wess, CFA",
+                        "summary": "",
+                        "location": "Skillman, NJ"
+                    },
+                    {
+                        "link": "https://www.linkedin.com/in/christopherwess?trk=public_profile_samename-profile",
+                        "name": "Christopher Wess",
+                        "summary": "Associate Financial Analyst at Conagra Brands",
+                        "location": "Lincoln, NE"
+                    }
+                ],
+                "recommendations": [
+                    {
+                        "link": "https://www.linkedin.com/in/gene-sebia-3a431524?trk=public_profile_recommendations",
+                        "name": "Gene Sebia",
+                        "summary": "\u201cChris is a consummate professional and over achiever who continuously performed by delivering the highest quality results. Chris was chief architect and led the global transition and divestiture from 30% of DuPont\u2019s global data centers. Chris\u2019s efforts enabled several critical infrastructure projects including data center build outs, network & application migration and consolidation to be completed ahead of schedule and under budget. He is a dedicated leader and at a moment\u2019s notice was able to jump into a failing project and use his skills to successfully bring the project to closure regardless of the technology platform. Chris was a key leader for our global implementation of Microsoft AD, DNS, DHCP (all things Microsoft) and he would be a great asset to any Fortune 500 organization.\u201d"
+                    },
+                    {
+                        "link": "https://www.linkedin.com/in/tim-meek-442836a?trk=public_profile_recommendations",
+                        "name": "Tim Meek",
+                        "summary": "\u201cI have worked with Chris Wess on our Global Active Directory Domain consolidation project. With his leadership and technical expertise we were successful in completing all the objectives of the project while avoiding system disruption during and after the transition.\n\nChris has an excellent balance of professionalism, attention to detail, expert technical knowledge, skills, and enterprise IT experience. His focus on alignment with business and organizational goals and objectives is consistent and appreciated. I consider Chris a strategic partner; in delivering measureable and lasting value for our company.\u201d"
+                    }
+                ],
+                "publications": [],
+                "courses": [],
+                "languages": [
+                    {
+                        "name": "spanish german",
+                        "level": "-"
+                    }
+                ],
+                "organizations": [],
+                "projects": [],
+                "awards": [],
+                "score": []
+            }
+        ]
+    },
+    {
+        "linkedin_url": "rahulskurkure",
+        "response": [
+            {
+                "fullName": "Rahul Kurkure",
+                "linkedin_internal_id": "127183463",
+                "first_name": "Rahul",
+                "last_name": "Kurkure",
+                "public_identifier": "rahulskurkure",
+                "background_cover_image_url": "https://media.licdn.com/dms/image/C4E16AQE9nM25eSqcUQ/profile-displaybackgroundimage-shrink_200_800/0/1602592040144?e=2147483647&v=beta&t=SfjEdQrugRity_JpHP92O0VgxT6ygZ7TjZR_jeijeGE",
+                "profile_photo": "https://media.licdn.com/dms/image/C5103AQFttUlvLn_PJg/profile-displayphoto-shrink_200_200/0/1525522644627?e=2147483647&v=beta&t=fB6Uru1kyA_iLFxPutN3Kcdx997gRrWJI8Dv0Msgcyk",
+                "headline": "",
+                "location": "Pune, Maharashtra, India\n          \n            Contact Info",
+                "followers": "7K followers",
+                "connections": "500+ connections",
+                "about": "Entrepreneur and Experienced Director with a demonstrated history of working in the\u2026",
+                "experience": [],
+                "education": [],
+                "articles": [
+                    {
+                        "link": "https://www.linkedin.com/pulse/how-cloud-can-used-springboard-innovation-rahul-kurkure?trk=public_profile_article_view",
+                        "image": "https://media.licdn.com/dms/image/C4E12AQHUHkF5Bkf1qA/article-cover_image-shrink_720_1280/0/1605535183309?e=2147483647&v=beta&t=mX4-NqxvsjXqxXh3V0IRiYjoFKXIvuGFgV2EP7uYVy4",
+                        "title": "How the cloud can be used as a springboard for innovation",
+                        "author": "By Rahul Kurkure",
+                        "published_date": "Nov 16, 2020"
+                    },
+                    {
+                        "link": "https://www.linkedin.com/pulse/critical-importance-draas-now-future-rahul-kurkure?trk=public_profile_article_view",
+                        "image": "https://media.licdn.com/dms/image/C4E12AQEwSjtP7t1xvQ/article-cover_image-shrink_720_1280/0/1603819689056?e=2147483647&v=beta&t=9ixubs618TRMYoI9QqLWgcMtK1oRRzi9GwbpGPOY064",
+                        "title": "The Critical Importance Of DRaaS for now and for the future",
+                        "author": "By Rahul Kurkure",
+                        "published_date": "Oct 27, 2020"
+                    }
+                ],
+                "description": {
+                    "description1": "Cloud.in",
+                    "description1_link": "https://in.linkedin.com/company/cloud.in?trk=public_profile_topcard-current-company",
+                    "description2": ""
+                },
+                "activities": [
+                    {
+                        "link": "https://www.linkedin.com/posts/pratik-d-gavali_cloudengineering-aws-edgeservices-activity-7220726377606483968-BtjC?trk=public_profile",
+                        "image": "https://media.licdn.com/dms/image/D4D22AQFflOynAf-4lQ/feedshare-shrink_800/0/1721555319418?e=2147483647&v=beta&t=Y2Bn2oAiR6G1JGEMz0BqqIBD1PhbRovcuo0hKNrfEUw",
+                        "title": "I am thrilled to share that I have received the Star Performer Award for this quarter at Cloud.in. I am honored and humbled to receive this\u2026",
+                        "activity": "Liked by Rahul Kurkure"
+                    },
+                    {
+                        "link": "https://www.linkedin.com/posts/rahulskurkure_edtech-aws-digitaltransformation-activity-7222230319570026496-e2-K?trk=public_profile",
+                        "image": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+                        "title": "Excited to see our team at Cloud.in leading the way at AWS EdTech Day on July 25! Calling all EdTech organizations \u2014 let's connect, innovate, and\u2026",
+                        "activity": "Shared by Rahul Kurkure"
+                    },
+                    {
+                        "link": "https://www.linkedin.com/posts/cloud%2Ein_aws-cloudin-awsedtechday-activity-7221853145444843523-5EZj?trk=public_profile",
+                        "image": "https://media.licdn.com/dms/image/D4D22AQHEkZzRQ3dZkA/feedshare-shrink_2048_1536/0/1721823952025?e=2147483647&v=beta&t=mpNI__feZ18IGWmLqE-opV5Gw5PgTrBPMuKTcxpG-zI",
+                        "title": "Thrilled to be a part of AWS EdTech Day on July 25! \n\nThis is a fantastic opportunity for us to showcase our capabilities and drive digital\u2026",
+                        "activity": "Liked by Rahul Kurkure"
+                    },
+                    {
+                        "link": "https://www.linkedin.com/posts/navneetranawat_future-ai-gen-activity-7221914064803749888-QnKW?trk=public_profile",
+                        "image": "https://media.licdn.com/dms/image/D5622AQEXJMLejJYGpA/feedshare-shrink_2048_1536/0/1721838488335?e=2147483647&v=beta&t=zMXwoK332oNGQub505p7sZtRzbYo-uI6g4nmExj4yJ8",
+                        "title": "Please Join us for \"NASSCOM Tech Series - Cloud Connect 2024\" where I will be discussing #Future Trends in Cloud Computing, #AI and Machine Learning\u2026",
+                        "activity": "Liked by Rahul Kurkure"
+                    },
+                    {
+                        "link": "https://www.linkedin.com/posts/jetsynthesys-pvt-ltd-_gepl-ratnagirijets-ecricket-activity-7215226815034904576-Xsv2?trk=public_profile",
+                        "image": "https://media.licdn.com/dms/image/D4D05AQH8eVLRH4S_Tg/videocover-high/0/1720244098738?e=2147483647&v=beta&t=RL5lyPwD6yIIr4tgmhMD-256Q4U0Ldiz_XoN6tpKiww",
+                        "title": "After the resounding success on the cricket field with Ratnagiri Jets clinching back-to-back titles in the Maharashtra Premier League last month\u2026",
+                        "activity": "Liked by Rahul Kurkure"
+                    },
+                    {
+                        "link": "https://www.linkedin.com/posts/amitnevatia_genai-startupsforaws-genai-activity-7218983705762021376-8gbE?trk=public_profile",
+                        "image": "https://media.licdn.com/dms/image/D5622AQEsZofJTbtivw/feedshare-shrink_800/0/1721139625351?e=2147483647&v=beta&t=SlEf8uE4ClaVxR1GcEE-scQqvvDoBvjLInORKLzNEuo",
+                        "title": "Amazon Web Services (AWS) and Tamil Nadu Technology Hub (iTNT) Hub have teamed up to launch their Generative AI Startup Hub in Tamil Nadu! This\u2026",
+                        "activity": "Liked by Rahul Kurkure"
+                    },
+                    {
+                        "link": "https://www.linkedin.com/posts/sonal-salunkhe-69432282_cloudin-is-hiring-activity-7218568356893757442-uTL4?trk=public_profile",
+                        "image": "https://media.licdn.com/dms/image/D4D22AQFbhd5IHef-wQ/feedshare-shrink_2048_1536/0/1721036199641?e=2147483647&v=beta&t=-5CyKCBhnhqZt0_9sxsfoCSQW3VOOJxnVDeGetGHsx8",
+                        "title": "Cloud.in is Hiring !",
+                        "activity": "Liked by Rahul Kurkure"
+                    },
+                    {
+                        "link": "https://www.linkedin.com/posts/cloud%2Ein_cloudsecurity-dataprotection-cybersecurity-activity-7217393542686507008-QoAN?trk=public_profile",
+                        "image": "https://media.licdn.com/dms/image/D4D22AQG6Ht4URx33Xg/feedshare-shrink_800/0/1720760711336?e=2147483647&v=beta&t=TzrgW1yv60ZpWLfa7sxXdClk3hcttiJa8cn5ORaVBOA",
+                        "title": "Are you prepared to shield your business from disaster? \ud83c\udf0b \ud83c\udf0b \nThe latest article by our cloud evangelist Rahul Kurkure unveils the ultimate playbook\u2026",
+                        "activity": "Liked by Rahul Kurkure"
+                    },
+                    {
+                        "link": "https://www.linkedin.com/posts/cloud%2Ein_cloudmanagementredefined-cloudvirtuosos-activity-7217434725731213313-YcYt?trk=public_profile",
+                        "image": "https://media.licdn.com/dms/image/D4D22AQHDz-tpdk_ocQ/feedshare-shrink_800/0/1720770531134?e=2147483647&v=beta&t=aTcojQA4QvZ4EO61tHHhL9PvgAs599kAzDmM1AgcdyE",
+                        "title": "Feeling adrift in the vast complexities of cloud management? You're not alone! \ud83e\udd1d \ud83e\udd1d \nAt cloud.in, our team of cloud virtuosos acts as your\u2026",
+                        "activity": "Liked by Rahul Kurkure"
+                    },
+                    {
+                        "link": "https://www.linkedin.com/posts/rahulskurkure_awsome-aws-cloudoperations-activity-7217081963948437504-Qj2H?trk=public_profile",
+                        "image": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+                        "title": "\ud83c\udf1f Exciting Milestone Alert! \ud83c\udf1f\nI am absolutely thrilled to share some incredible news from our vibrant #AWSome Team at Cloud.in! \ud83d\ude80\nWe has been\u2026",
+                        "activity": "Shared by Rahul Kurkure"
+                    }
+                ],
+                "volunteering": [],
+                "certification": [],
+                "people_also_viewed": [
+                    {
+                        "link": "https://in.linkedin.com/in/suvarna-jadhav-903826106?trk=public_profile_browsemap-profile",
+                        "name": "Suvarna Jadhav",
+                        "summary": "",
+                        "location": "Mumbai"
+                    },
+                    {
+                        "link": "https://in.linkedin.com/in/dubey-victor?trk=public_profile_browsemap-profile",
+                        "name": "Prakhar Dubey",
+                        "summary": "",
+                        "location": "Pune"
+                    },
+                    {
+                        "link": "https://in.linkedin.com/in/ashirwad-khairnar-4420b0238?trk=public_profile_browsemap-profile",
+                        "name": "Ashirwad Khairnar",
+                        "summary": "Mastering AWS: Leveraging EC2, RDS, IAM, S3, and CloudFront with Linux for Robust Cloud Solutions",
+                        "location": "Pune"
+                    },
+                    {
+                        "link": "https://in.linkedin.com/in/mgtodkar?trk=public_profile_browsemap-profile",
+                        "name": "Mayur Todkar",
+                        "summary": "Cloud Engineer | AWS | Linux | CCNA",
+                        "location": "Pune"
+                    },
+                    {
+                        "link": "https://in.linkedin.com/in/sushil-kumbhar?trk=public_profile_browsemap-profile",
+                        "name": "sushil kumbhar",
+                        "summary": "DevOps Engineer | Site Reliability Engineer | Cloud Engineer | AWS Certified (2x) | Terraform | Chef | Ansible | Bitbucket | Git  | Linux | Scripting | Docker | Kubernetes | Jira | New Relic | PagerDuty",
+                        "location": "Pune"
+                    },
+                    {
+                        "link": "https://in.linkedin.com/in/vaibhav-zapke-6a3402170?trk=public_profile_browsemap-profile",
+                        "name": "Vaibhav Zapke",
+                        "summary": "Cloud Engineer at Cloud.in",
+                        "location": "Pune"
+                    },
+                    {
+                        "link": "https://in.linkedin.com/in/punit-jain-a86a92171?trk=public_profile_browsemap-profile",
+                        "name": "Punit Jain",
+                        "summary": "Cloud Engineer at Cloud.in | AWS Certified Solutions Architect Associate & Cloud Practitioner | Linux | DevOps | Windows",
+                        "location": "Chandrapur"
+                    },
+                    {
+                        "link": "https://in.linkedin.com/in/shubhamcpakhale?trk=public_profile_browsemap-profile",
+                        "name": "Shubham Pakhale",
+                        "summary": "Cloud Engineer | 2x Red Hat certification | 2x AWS certification | Ansible | Docker & Podman",
+                        "location": "Pune"
+                    },
+                    {
+                        "link": "https://in.linkedin.com/in/urwashi-vidhani-0a1313104?trk=public_profile_browsemap-profile",
+                        "name": "Urwashi Vidhani",
+                        "summary": "",
+                        "location": "Pune"
+                    },
+                    {
+                        "link": "https://in.linkedin.com/in/pavantejachandhani?trk=public_profile_browsemap-profile",
+                        "name": "PavanTeja Chandhani",
+                        "summary": "Cloud Security Engineer | SRE | Devops| Certified AWS Solutions Architect Associate",
+                        "location": "Pune"
+                    },
+                    {
+                        "link": "https://in.linkedin.com/in/manas-darpelli-aws-cpc?trk=public_profile_browsemap-profile",
+                        "name": "Manas Darpelli",
+                        "summary": "AWS EDGE SECURITY  |  @CLOUDIN",
+                        "location": "Pune"
+                    },
+                    {
+                        "link": "https://in.linkedin.com/in/numan-gharte-9b8812208?trk=public_profile_browsemap-profile",
+                        "name": "Numan Gharte",
+                        "summary": "Cloud Engineer | RHCSA Certified |",
+                        "location": "Khed"
+                    },
+                    {
+                        "link": "https://in.linkedin.com/in/shaunak-kapadne-aa92a31a1?trk=public_profile_browsemap-profile",
+                        "name": "Shaunak Kapadne",
+                        "summary": "Cloud Engineer at Cloud.in",
+                        "location": "Pune"
+                    },
+                    {
+                        "link": "https://in.linkedin.com/in/siddhi-shinde-2513a41b5?trk=public_profile_browsemap-profile",
+                        "name": "Siddhi Shinde",
+                        "summary": "Aspiring Project Manager | Love to be a part of the Evolution Process when once a Thought then nurtured turns to Reality\ud83d\udca1",
+                        "location": "Pune"
+                    },
+                    {
+                        "link": "https://in.linkedin.com/in/abhi9696?trk=public_profile_browsemap-profile",
+                        "name": "Abhishek Urkudkar",
+                        "summary": "Cloud Engineer at Cloud.in | AWS Certified Solution Architect - Associate| Kubernetes| Docker | GIT",
+                        "location": "Pune/Pimpri-Chinchwad Area"
+                    },
+                    {
+                        "link": "https://in.linkedin.com/in/meetshubhamkumar?trk=public_profile_browsemap-profile",
+                        "name": "Shubham Kumar",
+                        "summary": "Passionate DevSecOps Engineer | AWS Cloud Maestro | Infrastructure as Code Wizard | AWS EKS Specialist | AWS Service Delivery Prodigy | GenAI",
+                        "location": "Pune"
+                    },
+                    {
+                        "link": "https://in.linkedin.com/in/surajmohite?trk=public_profile_browsemap-profile",
+                        "name": "Suraj Mohite",
+                        "summary": "Cloud Engineer | 2x AWS certified | AWS | Linux | Ansible | Docker | Open shift",
+                        "location": "Pune"
+                    },
+                    {
+                        "link": "https://in.linkedin.com/in/swapneel-maslekar-1569aab1?trk=public_profile_browsemap-profile",
+                        "name": "Swapneel Maslekar",
+                        "summary": "",
+                        "location": "Pune"
+                    },
+                    {
+                        "link": "https://in.linkedin.com/in/rutuja-uppin-593429207?trk=public_profile_browsemap-profile",
+                        "name": "Rutuja Uppin",
+                        "summary": "AWS Solutions Architect Certified | BCS Graduate | Cloud Computing | AWS",
+                        "location": "Pune"
+                    },
+                    {
+                        "link": "https://in.linkedin.com/in/rushikesh-patil-9b0a1419b?trk=public_profile_browsemap-profile",
+                        "name": "Rushikesh Patil",
+                        "summary": "Cloud Engineer",
+                        "location": "Pune"
+                    }
+                ],
+                "similar_profiles": [
+                    {
+                        "link": "https://in.linkedin.com/in/rahul-kurkure?trk=public_profile_samename-profile",
+                        "name": "Rahul Kurkure",
+                        "summary": "IIT Roorkee CSE'24 | HCL Software | Software Engineer",
+                        "location": "Pune"
+                    },
+                    {
+                        "link": "https://in.linkedin.com/in/rahul-kurkure-a4074376?trk=public_profile_samename-profile",
+                        "name": "RAHUL KURKURE",
+                        "summary": "Doctor at Army",
+                        "location": "Meghalaya, India"
+                    },
+                    {
+                        "link": "https://in.linkedin.com/in/rahul-kurkure-874575303?trk=public_profile_samename-profile",
+                        "name": "Rahul Kurkure",
+                        "summary": "Lead Technical Specialist at CA Firm",
+                        "location": "Pimpri Chinchwad"
+                    },
+                    {
+                        "link": "https://in.linkedin.com/in/rahul-kurkure-ba85231b0?trk=public_profile_samename-profile",
+                        "name": "Rahul Kurkure",
+                        "summary": "Junior Engineer at Indian Railway's",
+                        "location": "Pune"
+                    }
+                ],
+                "recommendations": [],
+                "publications": [],
+                "courses": [],
+                "languages": [],
+                "organizations": [],
+                "projects": [],
+                "awards": [],
+                "score": []
+            }
+        ]
+    }
+]
